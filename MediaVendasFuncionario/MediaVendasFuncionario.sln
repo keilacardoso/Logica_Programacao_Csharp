@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31410.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MediaVendasFuncionario", "MediaVendasFuncionario\MediaVendasFuncionario.csproj", "{1D4EA81F-0F72-47C1-8001-06EC7D0667F6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1D4EA81F-0F72-47C1-8001-06EC7D0667F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D4EA81F-0F72-47C1-8001-06EC7D0667F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D4EA81F-0F72-47C1-8001-06EC7D0667F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D4EA81F-0F72-47C1-8001-06EC7D0667F6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {48908D78-CE71-4ABF-B03F-AE26184B05BA}
+	EndGlobalSection
+EndGlobal

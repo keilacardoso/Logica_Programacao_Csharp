@@ -1,0 +1,13 @@
+C:\GitHub\Aulas_de-Logica-DIO\MediaVendasFuncionario\MediaVendasFuncionario\bin\Debug\netcoreapp3.1\MediaVendasFuncionario.exe
+C:\GitHub\Aulas_de-Logica-DIO\MediaVendasFuncionario\MediaVendasFuncionario\bin\Debug\netcoreapp3.1\MediaVendasFuncionario.deps.json
+C:\GitHub\Aulas_de-Logica-DIO\MediaVendasFuncionario\MediaVendasFuncionario\bin\Debug\netcoreapp3.1\MediaVendasFuncionario.runtimeconfig.json
+C:\GitHub\Aulas_de-Logica-DIO\MediaVendasFuncionario\MediaVendasFuncionario\bin\Debug\netcoreapp3.1\MediaVendasFuncionario.runtimeconfig.dev.json
+C:\GitHub\Aulas_de-Logica-DIO\MediaVendasFuncionario\MediaVendasFuncionario\bin\Debug\netcoreapp3.1\MediaVendasFuncionario.dll
+C:\GitHub\Aulas_de-Logica-DIO\MediaVendasFuncionario\MediaVendasFuncionario\bin\Debug\netcoreapp3.1\MediaVendasFuncionario.pdb
+C:\GitHub\Aulas_de-Logica-DIO\MediaVendasFuncionario\MediaVendasFuncionario\obj\Debug\netcoreapp3.1\MediaVendasFuncionario.csproj.AssemblyReference.cache
+C:\GitHub\Aulas_de-Logica-DIO\MediaVendasFuncionario\MediaVendasFuncionario\obj\Debug\netcoreapp3.1\MediaVendasFuncionario.AssemblyInfoInputs.cache
+C:\GitHub\Aulas_de-Logica-DIO\MediaVendasFuncionario\MediaVendasFuncionario\obj\Debug\netcoreapp3.1\MediaVendasFuncionario.AssemblyInfo.cs
+C:\GitHub\Aulas_de-Logica-DIO\MediaVendasFuncionario\MediaVendasFuncionario\obj\Debug\netcoreapp3.1\MediaVendasFuncionario.csproj.CoreCompileInputs.cache
+C:\GitHub\Aulas_de-Logica-DIO\MediaVendasFuncionario\MediaVendasFuncionario\obj\Debug\netcoreapp3.1\MediaVendasFuncionario.dll
+C:\GitHub\Aulas_de-Logica-DIO\MediaVendasFuncionario\MediaVendasFuncionario\obj\Debug\netcoreapp3.1\MediaVendasFuncionario.pdb
+C:\GitHub\Aulas_de-Logica-DIO\MediaVendasFuncionario\MediaVendasFuncionario\obj\Debug\netcoreapp3.1\MediaVendasFuncionario.genruntimeconfig.cache
