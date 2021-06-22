@@ -1,0 +1,13 @@
+C:\GitHub\Aulas_de-Logica-DIO\Media\Media\bin\Debug\netcoreapp3.1\Media.exe
+C:\GitHub\Aulas_de-Logica-DIO\Media\Media\bin\Debug\netcoreapp3.1\Media.deps.json
+C:\GitHub\Aulas_de-Logica-DIO\Media\Media\bin\Debug\netcoreapp3.1\Media.runtimeconfig.json
+C:\GitHub\Aulas_de-Logica-DIO\Media\Media\bin\Debug\netcoreapp3.1\Media.runtimeconfig.dev.json
+C:\GitHub\Aulas_de-Logica-DIO\Media\Media\bin\Debug\netcoreapp3.1\Media.dll
+C:\GitHub\Aulas_de-Logica-DIO\Media\Media\bin\Debug\netcoreapp3.1\Media.pdb
+C:\GitHub\Aulas_de-Logica-DIO\Media\Media\obj\Debug\netcoreapp3.1\Media.csproj.AssemblyReference.cache
+C:\GitHub\Aulas_de-Logica-DIO\Media\Media\obj\Debug\netcoreapp3.1\Media.AssemblyInfoInputs.cache
+C:\GitHub\Aulas_de-Logica-DIO\Media\Media\obj\Debug\netcoreapp3.1\Media.AssemblyInfo.cs
+C:\GitHub\Aulas_de-Logica-DIO\Media\Media\obj\Debug\netcoreapp3.1\Media.csproj.CoreCompileInputs.cache
+C:\GitHub\Aulas_de-Logica-DIO\Media\Media\obj\Debug\netcoreapp3.1\Media.dll
+C:\GitHub\Aulas_de-Logica-DIO\Media\Media\obj\Debug\netcoreapp3.1\Media.pdb
+C:\GitHub\Aulas_de-Logica-DIO\Media\Media\obj\Debug\netcoreapp3.1\Media.genruntimeconfig.cache
