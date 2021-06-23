@@ -6,12 +6,15 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            int i = 1, numero = 1;
+            int i = 1, numero = 1, tabuada, valorDigitado;
+
+            Console.WriteLine("Digite o valor da tabuada que quer consultar: ");
+            valorDigitado = Convert.ToInt32(Console.ReadLine());
 
             while (i <= 10)
             {
-                int tabuada = 9 * numero;
-                Console.WriteLine(tabuada); //tabuada do 9
+                tabuada = valorDigitado * numero;
+                Console.WriteLine(tabuada); 
                 numero = numero + 1;
                 i++;
             }
